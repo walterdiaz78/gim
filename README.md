@@ -1,23 +1,20 @@
-# Nombre del Proyecto
+# La Roka
 
-Web para el Gimnasio La Roka
+Bienvenido al repositorio del proyecto **Web Gimnasio La Roka**. Este repositorio contiene el código y los recursos para la página web del gimnasio La Roka.
 
 ## Tecnologías Utilizadas
 
 Este proyecto está construido con las siguientes tecnologías:
 
-- **Lenguaje 1**: HTML
-- **Lenguaje 2**: CSS
-- **Lenguaje 2**: JAVASCRIPT
+- **HTML**: Para la estructura de la página.
+- **CSS**: Para el diseño y estilo visual.
+- **JavaScript**: Para la interactividad y funcionalidad dinámica.
 
-## Instalación
+## Contacto
 
-NO REQUIERE INSTALACION
+Para más información o consultas, puedes contactar a:
 
-
-## Uso
-
-No requiere instrucciones
-
-
+- **Walter Diaz**
+- GitHub: [walterdiaz78](https://github.com/walterdiaz78)
+- Linktree: [web13_dev](https://linktr.ee/web13_dev)
 
